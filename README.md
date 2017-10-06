@@ -1,2 +1,8 @@
 # Oxymoron
 A privacy-minded social network that pays its users through use of their data and/or browser-based crypto-currency mining.
+
+As governments and corporations increasingly gather data on their denizens, internet users will need more private methods of communication. The average internet user does not understand and utilize many of the best privacy tools available, e.g. Tor, VPNs, etc. Oxymoron's intent is provide an easy means of sharing information between its users, without the prying eyes of third-party entities. User data is encrypted for transfer and storage, and users have full control over which of their data is stored, if any. Oxymoron will maintain an open-source presence to provide proof to its users of its authenticity and dedication to keeping their data private.
+
+Given that such a website will need financial support, and such support is unlikely to initially come from outside investors, Oxymoron will utilize browser-based crypto-currency mining software. The use of such software by its users will be completely voluntary, and any revenue made beyond what is needed to run the website will be distributed among its users. Additional support will come from the marketing of user data, which will be COMPLETELY voluntary, and will require the users to 'opt-in' upon the creation of their accounts. As before, any additional revenue acquired through this method can be distributed among its users. Accounts which provide more data about themselves, and whose data is more valuable to buyers, will receive an appropriately larger share of the revenue.
+
+The privacy and revenue distribution features will provide incentive to new users to join, and, jointly, become a method to break into the mature social networking market. 
